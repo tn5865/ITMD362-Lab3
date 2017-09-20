@@ -266,4 +266,7 @@ input {
   form {
   max-width: 480px;
   }
+  label {
+	display: block;
+  }
 }  
